@@ -1,5 +1,6 @@
 KCKProject
                                        Kultowa nazwa grupy: Złodzieje marzeń
+
 Skład grupy:
 Adrian Antkowski
 Kamil Natkaniec
