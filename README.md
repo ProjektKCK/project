@@ -1,4 +1,3 @@
-KCKP@@roject@@
 	                Kultowa nazwa grupy: Złodzieje marzeń
 
 Skład grupy:
