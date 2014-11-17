@@ -1,0 +1,19 @@
+RAPORT (25.10 - 7.11.2014)
+
+
+Zmieniliœmy nieco koncepcjê gry.
+
+Zakoñczyliœmy zmagania zwi¹zane z ustaleniem jak gra ma wygl¹daæ.
+
+Zaczêliœmy tworzyæ poszczególne czêœci.
+
+
+
+Z podzia³em:
+ 
+
+Patryk zacz¹³ tworzyæ plansze do gry oraz tworzy drzewko dialogowe.
+
+Kamil zorganizowa³a pracê oraz uzupe³ni³a dokumentacjê i raporty.
+
+Adrian rozpocz¹³ pracê nad kodem.

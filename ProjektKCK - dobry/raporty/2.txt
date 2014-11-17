@@ -1,0 +1,28 @@
+RAPORT (18 - 24.10.2014)
+
+
+Zaczêliœmy pisaæ program
+
+Rozbudowaliœmy pomys³ na grê
+
+Rozpoczêliœmy tworzenie grafiki
+
+Rozpoczêliœmy pisanie dokumentacji
+
+Wtêpnie utworzyliœmy drzewko dialogowe
+
+
+
+Z podzia³em na osoby:
+
+
+Patryk Prusiewicz utworzy³ drzewko dialogowe, zacz¹³ tworzyæ grafikê.
+
+
+Adrian Antkowski rozpocz¹³ pisaæ kod, którego fragmenty wrzucone s¹ w repozytorium w pliku "der.cpp"
+
+
+Kamil Natkaniec zorganizowa³ prace, sporz¹dzi³ raport oraz pocz¹tki dokumentacji.
+
+
+Wspólnie rozbudowaliœmy fabu³ê i ustaliliœmy szczegó³y projektu.
