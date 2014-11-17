@@ -1,0 +1,4 @@
+Jak cos postaram sie pobrac jakis kompilator do C#.
+Bo nie mam żadnego xD, I nawet nie wiem czy to co mam jest poprawne.
+Wstaię jakąś klasę główną i zaczne sie zabierac za tworzenie komunikacji z maszyna(na początek cos prostego).
+Grafikę zrobi się później :P

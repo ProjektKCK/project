@@ -1,0 +1,11 @@
+0 - Pochodnia +5 dmg (umożliwia widoczność o jedno pole w górę, dół, prawo, lewo) (za zapalenie 10 exp)
+1 - Mały eliksir życia (leczy 10 punktów obrażeń) (koszt 15 golda)
+2 - Duży eliksir życia (leczy 30 punktów obrażeń) (koszt 35 golda)
+3 - Drewniany miecz 10 dmg (dostępny na poziomie Łatwy) (koszt 50 golda)
+4 - Tępy miecz 20 dmg (dostępny na poziomie Łatwy) (koszt 100 golda)
+5 - Naostrzony miecz 50 dmg (dostępny na poziomie Średni) (koszt 200 golda)
+6 - Szlachetny miecz 100 dmg (dostępny na poziomie Trudny) (koszt 500 golda)
+7 - Krasnoludzki Topór 250 dmg (dostępny na poziomie Bardzo Trudny) (tylko w skrzyni)
+
+
+
