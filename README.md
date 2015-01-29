@@ -13,10 +13,22 @@ Tworzymy obiekt, który dzięki naszym poleceniom porusza się i wykonuje nasze 
 *******************************************************************
 Slownik - slowa kluczowe:
 
-jedz prosto;
-skręć prawo/lewo;
-upuść;
-podnieś;
+//przenies/ przesun
+//wyrzuc
+//skladuj
+//lewo
+//prawo
+//dol
+//gora
+//flage
+//wez flage
+//wez mineral
+//postaw flage
+//? mineral
+//skasuj tylko w bazie
+//postaw na prawo/lewo od mnie
+//postaw nad mna
+//postaw pod mna
 *******************************************************************
 Planowane środowisko:
 
@@ -24,13 +36,14 @@ Do wykonania projektu używać będziemy:
 *******************************************************************
 Grafika:
 
-wektorowa/rastrowa
+rastrowa
+
+opcjonalnie: wektorowa
 ********************************************************************
 Języki:
 
 
-C#/Java
+C++
 
 ********************************************************************
-Biblioteki do analizy tekstu.
-
+Biblioteki Allegro
