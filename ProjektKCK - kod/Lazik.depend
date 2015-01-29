@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1420802218 source:/home/asia/Dokumenty/Lazik/main.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	"Plansza.cpp"
+	"Lazik.cpp"
+
+1417734294 /home/asia/Dokumenty/Lazik/Plansza.cpp
+	"Plansza.h"
+	<fstream>
+
+1417735327 /home/asia/Dokumenty/Lazik/Plansza.h
+	"Pole.cpp"
+
+1415355930 /home/asia/Dokumenty/Lazik/Pole.cpp
+	"Pole.h"
+
+1415356120 /home/asia/Dokumenty/Lazik/Pole.h
+
+1415963860 /home/asia/Dokumenty/Lazik/Lazik.cpp
+	"Lazik.h"
+
+1417735731 /home/asia/Dokumenty/Lazik/Lazik.h
+
+1421958939 source:c:\users\kacper\desktop\lazik 2.0\main.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	"Plansza.cpp"
+	"Lazik.cpp"
+
+1421958137 c:\users\kacper\desktop\lazik 2.0\plansza.cpp
+	"Plansza.h"
+	<fstream>
+
+1421958098 c:\users\kacper\desktop\lazik 2.0\plansza.h
+	"Pole.cpp"
+
+1415355930 c:\users\kacper\desktop\lazik 2.0\pole.cpp
+	"Pole.h"
+
+1415356120 c:\users\kacper\desktop\lazik 2.0\pole.h
+
+1421955790 c:\users\kacper\desktop\lazik 2.0\lazik.cpp
+	"Lazik.h"
+
+1421957338 c:\users\kacper\desktop\lazik 2.0\lazik.h
+

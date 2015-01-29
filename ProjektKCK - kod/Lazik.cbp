@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lazik" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lazik" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lazik" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="../../../../Program Files (x86)/CodeBlocks/MinGW/include/allegro5" />
+		</Compiler>
+		<Linker>
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_acodec-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_audio-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_color-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_dialog-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_font-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_image-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_memfile-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_physfs-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_primitives-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro_ttf-5.0.10-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-monolith-static-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-mt-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-static-md.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-static-md-debug.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-static-mt.a" />
+			<Add library="..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\liballegro-5.0.10-static-mt-debug.a" />
+			<Add directory="../../../../Program Files (x86)/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="Lazik.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Lazik.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Plansza.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Plansza.h" />
+		<Unit filename="Pole.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Pole.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
