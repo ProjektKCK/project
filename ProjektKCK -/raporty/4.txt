@@ -6,5 +6,5 @@ Kamil Natkaniec uzupe³ni³ dokumentacjê.
 
 Patryk Prusiewicz oraz Adrian Antkowski pisali kod.
 
-Patryk Prusiewicz zacz¹³ tworzyæ diagramy.
+Patryk Prusiewicz zacz¹³ tworzyæ diagramy pomocniczne.
 

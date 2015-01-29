@@ -1,0 +1,9 @@
+RAPORT  (13 - 19.12.2014)
+
+Funkcje - Adrian Antkowski/Kamil Natkaniec/Patryk Prusiewicz
+
+1) ustelenie potrzebnych funkcji w projekcie
+
+2) zamodelowanie ich oraz ustalenie z jakich obiektów maj¹ korzystaæ
+
+

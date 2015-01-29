@@ -1,0 +1,5 @@
+RAPORT  (7 - 16.01.2015)
+
+Adrian Antkowski & Patryk Prusiewicz & Kamil Natkaniec
+
+pisanie funkcji, rozbudowa komend.

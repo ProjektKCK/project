@@ -16,7 +16,7 @@ Wtêpnie utworzyliœmy drzewko dialogowe
 Z podzia³em na osoby:
 
 
-Patryk Prusiewicz utworzy³ drzewko dialogowe, zacz¹³ tworzyæ grafikê.
+Patryk Prusiewicz, zacz¹³ tworzyæ grafikê.
 
 
 Adrian Antkowski rozpocz¹³ pisaæ kod, którego fragmenty wrzucone s¹ w repozytorium w pliku "der.cpp"
@@ -25,4 +25,4 @@ Adrian Antkowski rozpocz¹³ pisaæ kod, którego fragmenty wrzucone s¹ w repozytori
 Kamil Natkaniec zorganizowa³ prace, sporz¹dzi³ raport oraz pocz¹tki dokumentacji.
 
 
-Wspólnie rozbudowaliœmy fabu³ê i ustaliliœmy szczegó³y projektu.
+Wspólnie ustaliliœmy szczegó³y projektu.

@@ -1,7 +1,7 @@
 RAPORT  (15 - 21.11.2014)
 
-Adrian Antkowski - napisa³ czêœæ kodu.
+Kamil Natkaniec - napisa³ czêœæ kodu.
  
 Patryk Prusiewicz - utworzy³ obraz postaci i przedmiotów oraz diagramy.
 
-Kamil Natkaniec utworzyl dokumentacje.
+Adrian Antkowski utworzyl dokumentacje.

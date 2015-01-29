@@ -1,0 +1,7 @@
+RAPORT  (6 - 12.12.2014)
+
+Kamil Natkaniec - dokumentacja.
+ 
+Patryk Prusiewicz - dopasowanie grafiki pod implemetacje.
+
+Adrian Antkowski - zaimplementowa³ w kodzie obiekty graficzne.
